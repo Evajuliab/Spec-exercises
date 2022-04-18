@@ -1,0 +1,1 @@
+((farenheit * 1.8) +32).round
