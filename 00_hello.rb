@@ -10,6 +10,3 @@ def greet(name)
    return "Hello, Bob!"
     end
 end
-
-
-puts greet('Alice')
