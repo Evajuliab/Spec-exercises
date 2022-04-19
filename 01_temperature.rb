@@ -11,5 +11,3 @@ def ctof (farenheit)
    return ((farenheit * 1.8) +32).round(1)
  end
 end
-
-ctof(37)
